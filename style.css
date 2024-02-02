@@ -3,7 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
-header{
+.images{
+    background-color: black;
+  
+}
+.imgs{
+    justify-content: center;
+    justify-content: space-between;
+    position: relative;
+    left: 500px;
+}
+.navbbar{
+    color: #fff;
+}
+main{
     background-image: url(img/image\ 12.png);
     height: 60vh;
     color: #fff;
@@ -15,10 +28,25 @@ header{
     color: #fff;
 }
 .btn{
-    background-color: #6D1830;
+    background-color:#0C9DDA;
     padding: 12px 40px;
     justify-content: center;
 align-items: center;
 color: white;
 border-radius: 4px;
+}
+.texts{
+    width: 407px;
+}
+.trust{
+    width: 20px;
+}
+.sec1{
+    background-color: black;
+    height: 100vh;
+}
+.sec1text h1{ 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
