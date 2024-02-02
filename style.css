@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(img/image\ 12.png);
+    height: 60vh;
+    color: #fff;
+}
+.navnew{
+    margin-left: 700px;
+}
+.navme{
+    color: #fff;
+}
+.btn{
+    background-color: #6D1830;
+    padding: 12px 40px;
+    justify-content: center;
+align-items: center;
+color: white;
+border-radius: 4px;
+}
